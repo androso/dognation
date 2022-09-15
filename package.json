@@ -20,7 +20,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "module",
   "dependencies": {
     "concurrently": "^7.3.0",
     "express-session": "^1.17.3",
